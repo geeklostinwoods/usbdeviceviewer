@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2oxY9HJieKXjod9suwQ4B54hUDteR2SCNF59id/bMr+GtfiI+mC7QBGShS0qNkielT/X4CoKAHebwAtuJ/FIDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rkathire\\source\\repos\\usbview\\UsbViewer\\UsbViewer\\UsbViewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rkathire\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\rkathire\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\rkathire\\.nuget\\packages\\system.codedom\\4.7.0\\system.codedom.4.7.0.nupkg.sha512",
+    "C:\\Users\\rkathire\\.nuget\\packages\\system.management\\4.7.0\\system.management.4.7.0.nupkg.sha512",
+    "C:\\Users\\rkathire\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\rkathire\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
